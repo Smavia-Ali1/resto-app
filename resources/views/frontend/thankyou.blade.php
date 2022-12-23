@@ -1,0 +1,6 @@
+<x-frontend-layout>
+    <div class="container w-full px-5 py-6 mx-auto">
+        <h1>Thank You</h1>
+        <p>Your Table is reserved.</p>
+    </div>
+</x-frontend-layout>
